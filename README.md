@@ -7,7 +7,7 @@ The model is trained in a scenario featuring a single object within the scene. W
 
 Our test results exhibit remarkable generalization and robustness to previously unseen objects. Even with just a single camera, the performance of our model remains commendably stable. Notably, while the model is trained solely on scenes featuring single objects, it demonstrates the ability to operate in scenarios with multiple objects, provided they do not occlude each other. (Note: this capability is not covered in the paper.)
 
-For your convenience, we provide the checkpoint file named "GtG_best.pth". Further details can be found in the paper, available on [IEEE](https://ieeexplore.ieee.org/abstract/document/10412387) or [ResearchGate](https://www.researchgate.net/profile/Ali-Rashidi-Moghadam/publication/377819311_Grasp_the_Graph_GtG_A_Super_Light_Graph-RL_Framework_for_Robotic_Grasping/links/65ca348f1e1ec12eff8a5659/Grasp-the-Graph-GtG-A-Super-Light-Graph-RL-Framework-for-Robotic-Grasping.pdf), and on our [Google Site](https://sites.google.com/view/grasp-the-graph-gtg/home).
+For your convenience, we provide the checkpoint file named "GtG_best.pth". Further details can be found in the paper, available on [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10412387) or [ResearchGate](https://www.researchgate.net/profile/Ali-Rashidi-Moghadam/publication/377819311_Grasp_the_Graph_GtG_A_Super_Light_Graph-RL_Framework_for_Robotic_Grasping/links/65ca348f1e1ec12eff8a5659/Grasp-the-Graph-GtG-A-Super-Light-Graph-RL-Framework-for-Robotic-Grasping.pdf), and on our [Google Site](https://sites.google.com/view/grasp-the-graph-gtg/home).
 
 ## Results
 [Include your results here, such as graphs, tables, or any other relevant visualizations.]
