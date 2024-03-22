@@ -11,28 +11,39 @@ For your convenience, we provide the checkpoint file named "GtG_best.pth". Furth
 # Results
 
 ## Training Result
-Video:
-![Your GIF]][(https://github.com/Ali-Rashidi/GtG_1.0_1.1/blob/main/16.gif)]
 
-Plots:
+![TrainingPlot](https://github.com/Ali-Rashidi/GtG_1.0_1.1/blob/main/Slide11.PNG)
+
+
 
 ## Test Result - Single Object
+
 3 Cameras:
+![3Cameras](https://github.com/Ali-Rashidi/GtG_1.0_1.1/blob/main/13.gif)
+
 
 2 Cameras:
+![2Cameras](https://github.com/Ali-Rashidi/GtG_1.0_1.1/blob/main/14.gif)
+
 
 1 Camera:
+![1Camera](https://github.com/Ali-Rashidi/GtG_1.0_1.1/blob/main/15.gif)
+
 
 Overall Performance on test Objects:
+![Overall Performance on test Objects](https://github.com/Ali-Rashidi/GtG_1.0_1.1/blob/main/16.gif)
+
 
 ## Test Result - Multi Object
 
 
-# References
-- Paper: [Link to IEEE or ResearchGate]
-- Google Site: [Link to your Google Site]
-- [Add any additional references as necessary]
+![Grasping in Multi Object Scene](https://github.com/Ali-Rashidi/GtG_1.0_1.1/blob/main/17h.gif)
 
+
+# References
+- Paper (IEEE Xplore): [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10412387)
+- Paper (ResearchGate): [ResearchGate](https://www.researchgate.net/profile/Ali-Rashidi-Moghadam/publication/377819311_Grasp_the_Graph_GtG_A_Super_Light_Graph-RL_Framework_for_Robotic_Grasping/links/65ca348f1e1ec12eff8a5659/Grasp-the-Graph-GtG-A-Super-Light-Graph-RL-Framework-for-Robotic-Grasping.pdf)
+- Google Site: [Google Site](https://sites.google.com/view/grasp-the-graph-gtg/home)
 
 # Contact
 For any inquiries or feedback, feel free to reach out to me at [AliRashidiMoghadam@gmail.com].
