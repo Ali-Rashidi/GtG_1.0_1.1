@@ -12,7 +12,8 @@ For your convenience, we provide the checkpoint file named "GtG_best.pth". Furth
 
 ## Training Result
 Video:
-[(https://github.com/Ali-Rashidi/GtG_1.0_1.1/10.mp4](https://github.com/Ali-Rashidi/GtG_1.0_1.1/blob/main/10.mp4))
+![Your GIF](https://github.com/Ali-Rashidi/GtG_1.0_1.1/16.gif)
+
 Plots:
 
 ## Test Result - Single Object
