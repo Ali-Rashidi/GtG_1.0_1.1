@@ -12,7 +12,7 @@ For your convenience, we provide the checkpoint file named "GtG_best.pth". Furth
 
 ## Training Result
 Video:
-![Your GIF](https://github.com/Ali-Rashidi/GtG_1.0_1.1/blob/master/16.gif)
+![Your GIF]][(https://github.com/Ali-Rashidi/GtG_1.0_1.1/blob/main/16.gif)]
 
 Plots:
 
