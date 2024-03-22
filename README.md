@@ -10,7 +10,23 @@ Our test results exhibit remarkable generalization and robustness to previously 
 For your convenience, we provide the checkpoint file named "GtG_best.pth". Further details can be found in the paper, available on [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10412387) or [ResearchGate](https://www.researchgate.net/profile/Ali-Rashidi-Moghadam/publication/377819311_Grasp_the_Graph_GtG_A_Super_Light_Graph-RL_Framework_for_Robotic_Grasping/links/65ca348f1e1ec12eff8a5659/Grasp-the-Graph-GtG-A-Super-Light-Graph-RL-Framework-for-Robotic-Grasping.pdf), and on our [Google Site](https://sites.google.com/view/grasp-the-graph-gtg/home).
 
 ## Results
-[Include your results here, such as graphs, tables, or any other relevant visualizations.]
+
+# Training Result
+Video:
+
+Plots:
+
+# Test Result - Single Object
+3 Cameras:
+
+2 Cameras:
+
+1 Camera:
+
+Overall Performance on test Objects:
+
+# Test Result - Multi Object
+
 
 ## References
 - Paper: [Link to IEEE or ResearchGate]
