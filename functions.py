@@ -245,7 +245,7 @@ def get_pcd(clientID, cam1 , cam2 , cam3  , back1 , back2 , back3 , est_nmls=Fal
         data=np.concatenate((data,nmls),axis=1)
         
     #print(data.shape)
-    return pcd , data[:,:3] , pcd1_d , pcd2_d , pcd3_d
+    return pcd , data[:,:3] #, pcd1_d , pcd2_d , pcd3_d
 
 from sklearn.neighbors import kneighbors_graph
 def custom_draw_geometry_with_rotation(pcd , lines):
